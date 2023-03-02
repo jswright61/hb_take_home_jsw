@@ -3,6 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 gem "bootsnap", require: false
 gem "cssbundling-rails"
+gem "http"
 gem "jbuilder"
 gem "jsbundling-rails"
 gem "puma", "~> 5.0"
