@@ -1,0 +1,2 @@
+class EmailBounce < ApplicationRecord
+end
